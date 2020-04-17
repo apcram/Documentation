@@ -1,7 +1,9 @@
 # Documentation
-**ap**cram strives to be a free, open-source, and crowdsourced (wiki-style) site that compiles student notes into comprehensive and concise study sheets. We are striving to offer notes for every AP subject. These notes strive to be living and dynamic notes. Every year, as the course syllabus changes, our notes will too. 
+Full documentation to come. 
 
-As with all open projects, documentation is necessary to ensure everybody stays on the same page. 
+~~**ap**cram strives to be a free, open-source, and crowdsourced (wiki-style) site that compiles student notes into comprehensive and concise study sheets. We are striving to offer notes for every AP subject. These notes strive to be living and dynamic notes. Every year, as the course syllabus changes, our notes will too. ~~
+
+~~As with all open projects, documentation is necessary to ensure everybody stays on the same page. ~~
 
 ## Table of Contents
 
@@ -14,12 +16,12 @@ As with all open projects, documentation is necessary to ensure everybody stays 
   * [To-Do](#to-do)
 
 ## Organizational Structure
-We are community-run and community-supported. Every course will be assigned an **editor team** that is in charge of compiling and editing content. These teams will consist of students who have mastered the material and course, as well as undergraduates who are currently studying in the respective field (and teachers who are teaching the course, if possible).
+~~We are community-run and community-supported. Every course will be assigned an **editor team** that is in charge of compiling and editing content. These teams will consist of students who have mastered the material and course, as well as undergraduates who are currently studying in the respective field (and teachers who are teaching the course, if possible).~~
 
-A list of editor teams are here. [WIP]
+~~A list of editor teams are here. [WIP]~~
 
 ## Contributing
-Students who have taken the respective courses and/or exams may submit their notes to the respective editor teams who will compile, combine, and synthesize notes to create the  review sheets. Contributors will be attributed as *major* or *minor* contributors depending on how much of their notes were appropriated and used. 
+~~Students who have taken the respective courses and/or exams may submit their notes to the respective editor teams who will compile, combine, and synthesize notes to create the  review sheets. Contributors will be attributed as *major* or *minor* contributors depending on how much of their notes were appropriated and used. ~~
 
 ## Site Structure
 Currently, the site is hosted on GitHub Pages with Jekyll (running the Doks theme). The main site and the course page is hosted in the repo `apcram.github.io`, course pages are hosted within their individual repositories (with a copy of the theme). 
