@@ -14,7 +14,7 @@ As with all open projects, documentation is necessary to ensure everybody stays 
   * [To-Do](#to-do)
 
 ## Organizational Structure
-We are community-run and community-supported. Every course will be assigned an **editor team** that is in charge of compiling and editing content. These teams will consist of students who have mastered the material and course, as well as undergraduates who are currently studying in the respective field. 
+We are community-run and community-supported. Every course will be assigned an **editor team** that is in charge of compiling and editing content. These teams will consist of students who have mastered the material and course, as well as undergraduates who are currently studying in the respective field (and teachers who are teaching the course, if possible).
 
 A list of editor teams are here. [WIP]
 
